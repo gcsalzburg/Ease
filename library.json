@@ -1,0 +1,17 @@
+{
+	"name": "Ease",
+	"keywords": "motion, easing, ease, penner, bezier",
+	"description": "Basic easing functions for Arduino animation (lighting, servos). Includes quadratic, cubic, elastic, sine, exponential, overshoot, elastic and bounce functions.",
+	"repository":
+	{
+		"type": "git",
+		"url": "https://github.com/gcsalzburg/Ease.git"
+	},
+	"frameworks": "arduino",
+	"platforms":
+	[
+	  "atmelavr",
+	  "teensy"
+	],
+	"version": "0.1.0"
+}
